@@ -1,13 +1,21 @@
-package com.codingninjas.EVotingSystem.services;
+package com.spring.EVotingSystem.services;
 
-import com.codingninjas.EVotingSystem.entities.Election;
-import com.codingninjas.EVotingSystem.entities.ElectionChoice;
-import com.codingninjas.EVotingSystem.entities.User;
-import com.codingninjas.EVotingSystem.entities.Vote;
-import com.codingninjas.EVotingSystem.repositories.ElectionChoiceRepository;
-import com.codingninjas.EVotingSystem.repositories.ElectionRepository;
-import com.codingninjas.EVotingSystem.repositories.UserRepository;
-import com.codingninjas.EVotingSystem.repositories.VoteRepository;
+//import com.spring.EVotingSystem.entities.Election;
+//import com.spring.EVotingSystem.entities.ElectionChoice;
+//import com.spring.EVotingSystem.entities.User;
+//import com.spring.EVotingSystem.entities.Vote;
+//import com.spring.EVotingSystem.repositories.ElectionChoiceRepository;
+//import com.spring.EVotingSystem.repositories.ElectionRepository;
+//import com.spring.EVotingSystem.repositories.UserRepository;
+//import com.spring.EVotingSystem.repositories.VoteRepository;
+import com.spring.EVotingSystem.entities.Election;
+import com.spring.EVotingSystem.entities.ElectionChoice;
+import com.spring.EVotingSystem.entities.User;
+import com.spring.EVotingSystem.entities.Vote;
+import com.spring.EVotingSystem.repositories.ElectionChoiceRepository;
+import com.spring.EVotingSystem.repositories.ElectionRepository;
+import com.spring.EVotingSystem.repositories.UserRepository;
+import com.spring.EVotingSystem.repositories.VoteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

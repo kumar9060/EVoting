@@ -1,10 +1,14 @@
-package com.codingninjas.EVotingSystem.controllers;
+package com.spring.EVotingSystem.controllers;
 
-import com.codingninjas.EVotingSystem.entities.Election;
-import com.codingninjas.EVotingSystem.entities.ElectionChoice;
-import com.codingninjas.EVotingSystem.entities.User;
-import com.codingninjas.EVotingSystem.entities.Vote;
-import com.codingninjas.EVotingSystem.services.MainService;
+//import com.spring.EVotingSystem.entities.Election;
+//import com.spring.EVotingSystem.entities.ElectionChoice;
+//import com.spring.EVotingSystem.entities.User;
+//import com.spring.EVotingSystem.entities.Vote;
+import com.spring.EVotingSystem.entities.Election;
+import com.spring.EVotingSystem.entities.ElectionChoice;
+import com.spring.EVotingSystem.entities.User;
+import com.spring.EVotingSystem.entities.Vote;
+import com.spring.EVotingSystem.services.MainService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

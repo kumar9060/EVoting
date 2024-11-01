@@ -1,4 +1,4 @@
-package com.codingninjas.EVotingSystem;
+package com.spring.EVotingSystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

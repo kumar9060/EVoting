@@ -1,7 +1,9 @@
-package com.codingninjas.EVotingSystem.repositories;
+package com.spring.EVotingSystem.repositories;
 
-import com.codingninjas.EVotingSystem.entities.Election;
-import com.codingninjas.EVotingSystem.entities.ElectionChoice;
+//import com.codingninjas.EVotingSystem.entities.Election;
+//import com.codingninjas.EVotingSystem.entities.ElectionChoice;
+import com.spring.EVotingSystem.entities.Election;
+import com.spring.EVotingSystem.entities.ElectionChoice;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

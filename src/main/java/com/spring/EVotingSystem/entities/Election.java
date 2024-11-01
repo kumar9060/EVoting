@@ -1,4 +1,4 @@
-package com.codingninjas.EVotingSystem.entities;
+package com.spring.EVotingSystem.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
