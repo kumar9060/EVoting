@@ -1,9 +1,5 @@
 package com.spring.EVotingSystem.controllers;
 
-//import com.spring.EVotingSystem.entities.Election;
-//import com.spring.EVotingSystem.entities.ElectionChoice;
-//import com.spring.EVotingSystem.entities.User;
-//import com.spring.EVotingSystem.entities.Vote;
 import com.spring.EVotingSystem.entities.Election;
 import com.spring.EVotingSystem.entities.ElectionChoice;
 import com.spring.EVotingSystem.entities.User;
